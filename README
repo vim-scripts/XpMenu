@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=928
+
+This script and dll simulate WinXP style menu.
+This module works on Win2K only.(don't support others)
+You can build it with Microsoft Platform SDK.
+Enjoy!
+
+--
+screenshot:
+http://hp.vector.co.jp/authors/VA020411/Vim/xpmenu/screenshot.jpg
+This use japanese font.
+
